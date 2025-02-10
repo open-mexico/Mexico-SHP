@@ -111,4 +111,4 @@ Este proyecto está bajo la Licencia **MIT** - mira el archivo [LICENSE](LICENSE
 [license-shield]: https://img.shields.io/github/license/open-mexico/Mexico-SHP?style=flat-square
 [license-url]: https://github.com/open-mexico/Mexico-SHP/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://mx.linkedin.com/in/ortegaarturo
+[linkedin-url]: https://www.linkedin.com/in/macarthuror/
